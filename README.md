@@ -1,4 +1,4 @@
-# Ecommerce-Sales-Dashboard-rd
+# Ecommerce-Sales-Dashboard
 power BI Dashboard project 1
 Project Leanrnings
 •	Created interactive dashboards to track and analyze online sales data.
